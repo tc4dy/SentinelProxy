@@ -7,8 +7,14 @@ import threading
 import queue
 import time
 import os
+import platform
 from colorama import Fore, Style, init
 
+def clear_terminal():
+    command = "cls" if platform.system().lower() == "windows" else "clear"
+    os.system(command)
+
+clear_terminal()
 init(autoreset=True)
 
 class SentinelProxy:
@@ -189,4 +195,5 @@ class SentinelProxy:
 if __name__ == "__main__":
     app = SentinelProxy()
     app.run()
+
 
