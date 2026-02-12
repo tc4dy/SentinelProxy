@@ -84,7 +84,7 @@ class SentinelProxy:
     ███████║███████╗██║ ╚████║   ██║   ██║██║ ╚████║███████╗███████╗
     ╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
 {Fore.RED}    [#] Advanced Proxy Scraper & Checker
-    [#] Created by Tc4dy - Tuğra | 2026
+    [#] Created by Tc4dy | 2026
         """
 
     def set_language(self):
@@ -189,3 +189,4 @@ class SentinelProxy:
 if __name__ == "__main__":
     app = SentinelProxy()
     app.run()
+
