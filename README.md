@@ -1,4 +1,4 @@
-#Go Advanced & Bugless Version | https://github.com/tc4dy/SentinelProxyV2
+# Go Advanced & Bugless Version | https://github.com/tc4dy/SentinelProxyV2
 
 ## Sentinel Proxy Scraper & Checker by Tc4dy
 
