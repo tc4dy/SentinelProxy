@@ -3,7 +3,7 @@
 A tactical proxy infrastructure for professional anonymity and stealth reconnaissance. Features multi-source scraping, ultra-fast threading, and latency-based validation. Engineered to neutralize IP bans and ensure continuous, unrestricted data flow. High-speed, resilient, and ready for advanced tasks.
 
 ## 🚀 Features
-- **Multi-Source:** Fetches proxies from 4+ reliable sources.
+- **Multi-Source:** Fetches proxies from 40+ reliable sources.
 - **Fast Verification:** Multi-threaded checking engine.
 - **Dual Language:** Supports both English and Turkish.
 - **Auto-Save:** Valid proxies are automatically saved to `valid_proxies.txt`.
