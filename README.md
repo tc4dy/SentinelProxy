@@ -18,8 +18,3 @@ cd SentinelProxy
 pip install -r requirements.txt
 python sentinel_proxy.py
 
-🥼 Note: Sentinel is engineered specifically for PC 
-to ensure maximum performance in multi-threaded proxy validation and system optimization. 
-Mobile environments like Termux are not recommended due to network socket limitations and process throttling; 
-use the PC version for a 100% stable experience.
-
