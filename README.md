@@ -1,4 +1,6 @@
-# Sentinel Proxy Scraper & Checker by Tc4dy
+#Go Advanced & Bugless Version | https://github.com/tc4dy/SentinelProxyV2
+
+## Sentinel Proxy Scraper & Checker by Tc4dy
 
 A tactical proxy infrastructure for professional anonymity and stealth reconnaissance. Features multi-source scraping, ultra-fast threading, and latency-based validation. Engineered to neutralize IP bans and ensure continuous, unrestricted data flow. High-speed, resilient, and ready for advanced tasks.
 
